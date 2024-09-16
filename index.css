@@ -121,10 +121,9 @@ padding-top: 150px;
     
 }
 
-@media screen (min-width: 1440px) {
+@media (min-width: 1440px) {
     .banner-content h1 {
         padding-top: 600px;
-
     }
 }
 #about {
